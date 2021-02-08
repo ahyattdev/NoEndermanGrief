@@ -1,0 +1,6 @@
+name: NoEndermanGrief
+main: us.andrewhyatt.NoEndermanGrief.PluginBase
+version: 1.0
+author: Andrew Hyatt
+description: Stripped-down fork of NoEndermanGrief by JoelGodOfwar
+api-version: 1.16
